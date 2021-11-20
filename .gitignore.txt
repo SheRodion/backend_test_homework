@@ -1,2 +1,5 @@
 # backend_test_homework
 # another string
+
+# игнорировать venv
+D:\Dev\backend_test_homework\venv
